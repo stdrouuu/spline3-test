@@ -8,6 +8,8 @@ This project is deployed on **Vercel**, the platform created by the makers of Ne
 For more details about deploying apps to Vercel, check out the official documentation:
 [https://vercel.com/docs](https://vercel.com/docs)
 
+<img width="1534" height="785" alt="Image" src="https://github.com/user-attachments/assets/fda60501-ce89-46d6-adb9-a5a01ae473d4" />
+
 ## About This Project  
 This project is a personal learning experience in designing 3D scenes & models using **Spline** and integrating them into a **React** app. this project served as a testbed for experimenting combining 3D design with frontend development, giving me full hands-on experience.
 * On desktop, the model reacts to mouse movement, allowing real-time tracking as the user hovers around.
