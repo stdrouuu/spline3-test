@@ -10,6 +10,8 @@ For more details about deploying apps to Vercel, check out the official document
 
 ## About This Project  
 This project is a personal learning experience in designing 3D scenes & models using **Spline** and integrating them into a **React** app. this project served as a testbed for experimenting combining 3D design with frontend development, giving me full hands-on experience.
+* On desktop, the model reacts to mouse movement, allowing real-time tracking as the user hovers around.
+* On mobile devices, the interaction is triggered by touch, where holding the screen activates the motion tracking behavior.
 
 ## Vite + React Setup  
 Uses a minimal setup to get React working in **Vite**, with **Hot Module Replacement (HMR)** and basic ESLint configuration.
