@@ -1,10 +1,18 @@
-# React + Vite
+# 3D model with motion made in Spline, integrated to React
 
+## Deployment  
+This project is deployed on **Vercel**, the platform created by the makers of Next.js, for seamless and fast deployment of modern web applications.
 
-## Live Demo https://spline3test.vercel.app/
+## Live Demo: https://spline3test.vercel.app/
 
+For more details about deploying apps to Vercel, check out the official documentation:
+[https://vercel.com/docs](https://vercel.com/docs)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About This Project  
+This project is a personal learning experience in designing 3D scenes & models using **Spline** and integrating them into a **React** app. this project served as a testbed for experimenting combining 3D design with frontend development, giving me full hands-on experience.
+
+## Vite + React Setup  
+Uses a minimal setup to get React working in **Vite**, with **Hot Module Replacement (HMR)** and basic ESLint configuration.
 
 Currently, two official plugins are available:
 
