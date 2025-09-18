@@ -3,7 +3,7 @@
 ## Deployment  
 This project is deployed on **Vercel**, the platform created by the makers of Next.js, for seamless and fast deployment of modern web applications.
 
-## Live Demo: https://spline3test.vercel.app/
+## Live: https://spline3test.vercel.app/
 
 <img width="1534" height="785" alt="Image" src="https://github.com/user-attachments/assets/fda60501-ce89-46d6-adb9-a5a01ae473d4" />
 
